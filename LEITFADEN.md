@@ -59,11 +59,7 @@ Jupyter Notebooks sind ideal für:
 - Visualisierung
 - Modellergebnisse
 
-Beispielhafte Benennung (chronologisch und thematisch, Nummerierung sorgt für Ordnung):
-
-01_datenaufbereitung.ipynb
-02_erste_analysen.ipynb
-03_visualisierung.ipynb
+Ein fiktives Notebook ist im Ordner "notebooks" ui finden
 
 
 ## Ergebnisse speichern in
