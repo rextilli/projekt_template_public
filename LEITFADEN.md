@@ -59,7 +59,7 @@ Jupyter Notebooks sind ideal für:
 - Visualisierung
 - Modellergebnisse
 
-Ein fiktives Notebook ist im Ordner "notebooks" ui finden
+Ein fiktives Notebook ist im Ordner "notebooks" zu finden
 
 
 ## Ergebnisse speichern in
